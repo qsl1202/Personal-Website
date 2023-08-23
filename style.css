@@ -2,3 +2,20 @@ html {
   height: 100%;
   width: 100%;
 }
+
+
+section {
+  color:#8b9ec1 ; 
+}
+
+.content-section{
+  color:#c78e8e;
+}
+
+.content-section2{
+  color:#b974a0;
+}
+
+#paragraph-content {
+  Color:#958395 ;
+}
